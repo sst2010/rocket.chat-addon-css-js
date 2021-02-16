@@ -6,8 +6,8 @@ External stylesheets and scripts for Rocket.Chat UI Improvements and Feature Add
 
 ## Warning !!
 
-- The scripts and styles can potentially cause bugs or discomfort. Please test them thoroughly upon use to protect the users.
-- I do not assume any repsonsibility for damage done, if any due to the use of the scripts and styles.
+- The scripts and styles can potentially cause bugs or discomfort. Please test them thoroughly upon the use to protect the users.
+- I do not assume any responsibility for damage done if any due to the use of the scripts and styles.
 
 ## What is this ??
 
@@ -20,11 +20,11 @@ The latest stylesheet and scripts that I have deployed are available here for ut
 - Assign status to threads in a room and hide/show them based on status.
   - The feature was introduced into RC in newer versions but was not available when I first installed RC.
 - Improved a somewhat congested default chat and markdown view to a beautiful and spacious appearance.
-- Added dark theme and customized it a bit to force dark theme ( Yes !! Our team loves dark theme. ).
+- Added dark theme and customized it a bit to force dark theme ( Yes !! Our team loves a dark theme. ).
   - Credits to @pbaity for creating the dark theme.
-- Blocked the default feature to show large messages as expanded. Added feature to show large messages compressed with a button to collapse/expand message or simply scroll through the message in collapsed container.
+- Blocked the default feature to show large messages as expanded. Added feature to show large messages compressed with a button to collapse/expand message or simply scroll through the message in the collapsed container.
 - Added a feature to encapsulate large code snippets into a single line element in chat, clicking on which opens the snippet in a popup with bonus features like download, save, etc.
-  - Also created an extended codeblock md syntax allowing to specify the code language and file name.
+  - Also created an extended code block MD syntax allowing to specify the code language and file name.
   - Code language can be later utilized to render syntactic snippets later.
 
 **Before and After preview of chat room:**
@@ -39,8 +39,8 @@ I have some tasks planned for this project. I will get to them as soon as you ca
 
 - Add instructions to use external CSS and JS in Rocket.Chat.
 - Segregate files by feature to allow adding features individually.
-- Detect code snippet size and show first few lines.
-- Configure the script to fetch latest script and style from GH repo and inject them into the page.
+- Detect code snippet size and show the first few lines.
+- Configure the script to fetch the latest script and style from GH repo and inject them into the page.
 
 ## Farewell
 
