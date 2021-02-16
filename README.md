@@ -37,6 +37,7 @@ The latest stylesheet and scripts that I have deployed are available here for ut
 
 I have some tasks planned for this project. I will get to them as soon as you can. If you'd like to help contribute by doing some of the tasks, feel free to submit a PR or contact me on my mail.
 
+- Add instructions to use external CSS and JS in Rocket.Chat.
 - Segregate files by feature to allow adding features individually.
 - Detect code snippet size and show first few lines.
 - Configure the script to fetch latest script and style from GH repo and inject them into the page.
